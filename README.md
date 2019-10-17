@@ -17,9 +17,9 @@ Hash It was primarily made using React Native. We utilized the Google Cloud Visi
 You can see more details on our [Devpost page.](https://devpost.com/software/virtual-scrapbook)
 
 ## Team
-Akshansh Sinha
-Tran Ngo
-Tre Lannon
+Akshansh Sinha\
+Tran Ngo\
+Tre Lannon\
 Veena Vijai
 
 (All from the University of Southern California)
